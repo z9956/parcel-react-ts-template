@@ -1,7 +1,6 @@
 {
 	"name": "parcel-template",
 	"version": "1.0.0",
-	"main": "src/index.tsx",
 	"repository": "git@github.com:z9956/parcel-template.git",
 	"author": "9956 <zhz995617@gmail.com>",
 	"license": "MIT",
